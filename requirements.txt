@@ -1,0 +1,5 @@
+boto==2.48.0 
+apache-airflow==1.9.0 
+pandas==0.20.3
+requests==2.18.4 
+numpy==1.14.1 
